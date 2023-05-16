@@ -1,6 +1,6 @@
 # Raf Tours Application
 
-A Node.js sample application implementing a Farm Online Shop 😁
+A Node.js sample application implementing an online Tour Booking platform 😁 
 
 Built using Node.js, Express, MongoDB, Mongoose:
 - lets you test around Node.js, Express, MongoDB, Mongoose
